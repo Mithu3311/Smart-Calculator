@@ -1,7 +1,7 @@
 
 # Smart Calulator
 
-A Simple calulator to calulate Plus, Minus, Multiplication, and Division.
+A Simple calulator using Typescript, node.js and Inquirer to calulate Plus, Minus, Multiplication, and Division.
 ## Authors
 
 - [@mithu]https://github.com/Mithu3311
